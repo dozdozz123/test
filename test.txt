@@ -4,3 +4,4 @@ test
 -mau keliling dunia
 -mau nangkap hiu
 -mau nangkep batu meteor
+-modif motor
